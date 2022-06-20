@@ -1,0 +1,7 @@
+setuptools>=36.0.1
+
+[dev]
+coverage
+pip-tools
+yala
+tox
